@@ -16,16 +16,8 @@
               "email": "emmanuelobiechina6@gmail.com"
           }
     ],
-    "track": "Selected track or challenge name",
-    "prizes_applied": ["Prize A", "Prize B"],
-    "repo_url": "https://github.com/yourteam/project",
     "demo_url": "https://ethglobal.com/showcase/your-project",
-    "screenshots": ["assets/demo1.png", "assets/demo2.gif"],
-    "usage_links": [
-        {
-            "tool": "Gaia",
-            "link": "https://github.com/yourteam/project/blob/main/gaia-agent.js"
-        }
-    ],
-    "notes": "Anything you'd like to share with judges, mentors, or sponsors."
+    "video_url":"https://www.youtube.com/watch?v=JCr91at35sA&feature=youtu.be",
+    "technologies": ["React", "Next.js", "Tailwind CSS", "Ethers.js", "Polygon"]
+    
 }
