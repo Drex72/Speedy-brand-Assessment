@@ -1,0 +1,31 @@
+{
+    "name": "Project Name",
+    "tagline": "One-liner summary of your project",
+    "description": "Detailed description of the project, tech used, and what it does.",
+    "team": [
+        {
+            "name": "Drex",
+            "email": "davidokunoye003@gmail.com"
+        },
+         {
+             "name": "Drey",
+             "email": "drexxdrey00@gmail.com"
+         },
+          {
+              "name": "Daniel",
+              "email": "emmanuelobiechina6@gmail.com"
+          }
+    ],
+    "track": "Selected track or challenge name",
+    "prizes_applied": ["Prize A", "Prize B"],
+    "repo_url": "https://github.com/yourteam/project",
+    "demo_url": "https://ethglobal.com/showcase/your-project",
+    "screenshots": ["assets/demo1.png", "assets/demo2.gif"],
+    "usage_links": [
+        {
+            "tool": "Gaia",
+            "link": "https://github.com/yourteam/project/blob/main/gaia-agent.js"
+        }
+    ],
+    "notes": "Anything you'd like to share with judges, mentors, or sponsors."
+}
